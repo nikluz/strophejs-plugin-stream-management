@@ -1,3 +1,4 @@
+import { $build, Strophe } from 'strophe.js';
 
 /**
 * StropheJS - Stream Management XEP-0198
